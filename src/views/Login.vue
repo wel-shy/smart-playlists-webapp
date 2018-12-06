@@ -10,11 +10,13 @@ div.login
     div.container
       p.info
       |
-      em.info Login in with Spotify will create a Smart Playlists account. We store your email
-        | so we can contact you about functional changes to your account, as well as a Spotify
-        | token that allows us to update your account. The permissions this token gives are listed
-        | on the Spotify authentication page. We also use a cookie to store an access token for
-        | our services every time you login which your browser will delete after 1 day.
+      em.info Logging in with Spotify will create a Smart Playlists account for you. We store your email&nbsp;
+        | so we can contact you about functional changes to your account, as well as a Spotify access token
+        | that allows us to make changes to your Spotify account, essential to making smart playlists.
+        | The full permissions you grant us to make changes to your account are listed
+        | on the Spotify authentication page. We also store a cookie in your browser which is an
+        | access token for our services. This is stored every time you login and is deleted automatically
+        | by your browser after 24 hours.
       |
       br
       |

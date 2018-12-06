@@ -32,12 +32,6 @@ export default {
 <style scoped>
   footer {
     min-height: 25vh;
-    /*position: absolute;*/
-    /*left: 0;*/
-    /*bottom: 0;*/
-    /*height: 100px;*/
-    /*width: 100%;*/
-    /*overflow: hidden;*/
   }
   p {
     padding-top: 5%;
