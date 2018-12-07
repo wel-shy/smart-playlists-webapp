@@ -39,4 +39,8 @@ export default {
 .button {
   margin-top: 5%;
 }
+
+.login {
+  min-height: 50vh;
+}
 </style>
